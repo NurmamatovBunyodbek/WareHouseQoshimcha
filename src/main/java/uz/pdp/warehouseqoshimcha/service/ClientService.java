@@ -1,6 +1,5 @@
 package uz.pdp.warehouseqoshimcha.service;
 
-import org.apache.catalina.LifecycleState;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import uz.pdp.warehouseqoshimcha.model.Client;
